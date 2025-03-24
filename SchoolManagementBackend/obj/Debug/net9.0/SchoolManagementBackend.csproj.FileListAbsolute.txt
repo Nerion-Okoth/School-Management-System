@@ -171,3 +171,4 @@ C:\Users\gilbe\OneDrive\Desktop\School Management System\SchoolManagementBackend
 C:\Users\gilbe\OneDrive\Desktop\School Management System\SchoolManagementBackend\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
 C:\Users\gilbe\OneDrive\Desktop\School Management System\SchoolManagementBackend\bin\Debug\net9.0\MailKit.dll
 C:\Users\gilbe\OneDrive\Desktop\School Management System\SchoolManagementBackend\bin\Debug\net9.0\MimeKit.dll
+C:\Users\gilbe\OneDrive\Desktop\School Management System\SchoolManagementBackend\obj\Debug\net9.0\SchoolManagementBackend.sourcelink.json
